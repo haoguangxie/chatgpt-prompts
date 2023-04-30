@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         ChatGPT-Prompt-Helper
-// @namespace    https://github.com/waiting0902/chatgpt-prompt-helper.git
+// @namespace    https://github.com/waiting0902/chatgpt-prompts.git
 // @author       TBXark
-// @homepageURL  https://github.com/waiting0902/chatgpt-prompt-helper.git
+// @homepageURL  https://github.com/waiting0902/chatgpt-prompts.git
 // @version      1.0.0
 // @description  Show prompts for ChatGPT
 // @match        https://chat.openai.com/*
@@ -10,8 +10,8 @@
 // @match        https://poe.com/*
 // @match        https://chat.zhile.io/*
 // @connect      raw.githubusercontent.com
-// @downloadURL  https://github.com/waiting0902/chatgpt-prompt-helper/master/main.js
-// @updateURL    https://github.com/waiting0902/chatgpt-prompt-helper/master/main.js
+// @downloadURL  https://github.com/waiting0902/chatgpt-prompts/master/main.js
+// @updateURL    https://github.com/waiting0902/chatgpt-prompts/master/main.js
 // @grant        浩光同学
 // ==/UserScript==
 
